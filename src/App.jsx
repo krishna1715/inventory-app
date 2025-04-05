@@ -1,7 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-function App() {
-  return <h1>Inventory App Vite Setup Complete!</h1>
+export default function App() {
+  return (
+    <div>
+      <h1>Inventory App is working!</h1>
+    </div>
+  );
 }
-
-export default App
