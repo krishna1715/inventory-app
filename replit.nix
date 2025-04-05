@@ -1,5 +1,1 @@
-{pkgs}: {
-  deps = [
-    pkgs.imagemagick
-  ];
-}
+// Placeholder content for replit.nix
